@@ -19,3 +19,6 @@ Kelas: TI 22 B1<br>
 ![pyton](https://user-images.githubusercontent.com/115473812/197374000-bcff4144-d9d1-4b99-856b-428962834841.png)
 3. Instalasi selesai, klik Close
 ![piton](https://user-images.githubusercontent.com/115473812/197374112-975ec893-0f1e-4e74-bf59-1517c3d98a6f.png)
+
+
+## Latihan 1
